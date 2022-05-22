@@ -1,0 +1,22 @@
+#search-i{
+    border: 1px solid gray;
+    font-size: larger;
+    width: 80%;
+    padding: .5rem;
+    outline: none;
+    position: fixed;
+    right: 8rem;
+    margin-top: 3rem;
+}
+#search{
+    background-color: rgba(255, 255, 255, 0.63);
+    padding: 4.5rem;
+    z-index: 1;
+}
+.m{
+    margin-top: 12rem;
+}
+
+  .cards{
+    margin-top: 5rem;
+  }
